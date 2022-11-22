@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">COMp2000-3</string>
-    <string name="title_home">Profile</string>
-    <string name="title_dashboard">Create New</string>
+    <string name="title_home">View</string>
+    <string name="title_dashboard">Manage Booking</string>
     <string name="title_notifications">Edit</string>
-    <string name="title_delete">Delete</string>
 </resources>

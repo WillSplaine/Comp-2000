@@ -22,9 +22,4 @@
         android:name="com.will.comp2000_3.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
-    <fragment
-        android:id="@+id/navigation_delete"
-        android:name="com.will.comp2000_3.delete"
-        android:label="fragment_delete"
-        tools:layout="@layout/fragment_delete" />
 </navigation>
