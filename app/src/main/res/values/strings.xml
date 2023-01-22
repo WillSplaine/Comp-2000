@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">COMp2000-3</string>
+    <string name="app_name">COMp2000_3</string>
     <string name="title_home">View</string>
-    <string name="title_dashboard">Manage Booking</string>
-    <string name="title_notifications">Edit</string>
+    <string name="title_dashboard">Manage Holidays</string>
+    <string name="title_notifications">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

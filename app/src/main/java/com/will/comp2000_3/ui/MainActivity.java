@@ -1,4 +1,4 @@
-package com.will.comp2000_3;
+package com.will.comp2000_3.ui;
 
 import android.os.Bundle;
 
@@ -10,6 +10,7 @@ import androidx.navigation.Navigation;
 import androidx.navigation.ui.AppBarConfiguration;
 import androidx.navigation.ui.NavigationUI;
 
+import com.will.comp2000_3.R;
 import com.will.comp2000_3.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {

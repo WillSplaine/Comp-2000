@@ -1,23 +1,21 @@
-package com.will.comp2000_3;
-
+package com.will.comp2000_3.ui.admin;
 import androidx.lifecycle.ViewModelProvider;
-
 import android.os.Bundle;
-
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import com.will.comp2000_3.R;
+import com.will.comp2000_3.ui.LoginViewModel;
 
-public class Login extends Fragment {
+    public class login extends Fragment {
 
     private LoginViewModel mViewModel;
 
-    public static Login newInstance() {
-        return new Login();
+    public static com.will.comp2000_3.ui.Login newInstance() {
+        return new com.will.comp2000_3.ui.Login();
     }
 
     @Override

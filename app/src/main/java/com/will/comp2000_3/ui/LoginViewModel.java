@@ -1,4 +1,4 @@
-package com.will.comp2000_3;
+package com.will.comp2000_3.ui;
 
 import androidx.lifecycle.ViewModel;
 
